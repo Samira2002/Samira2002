@@ -1,7 +1,7 @@
 <h1> 👋 Olá, me chamo Samira ! </h1>
+<br>
 <h2>✨Bem vindo ao meu perfil GitHub✨</h2>
 
-<br>
 <div><h4>- 👯 Estou procurando colaborar em projetos comunitários utilizando Java, não sei de tudo, mas gostaria de aprender mais</h4></div>
 <div><img src="https://c.tenor.com/4g17BhQWFQkAAAAM/bug-developer.gif" /></div>
 
