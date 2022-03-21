@@ -2,7 +2,7 @@
 <br>
 <h2>✨Bem vindo ao meu perfil GitHub✨</h2>
 
-<div><h4>- 👯 Estou procurando colaborar em projetos comunitários utilizando Java, não sei de tudo, mas gostaria de aprender mais</h4></div>
+<div><h4>- 👯 Atualmente atuo como UX Writer Jr na empresa Compass.UOL, estudo Ciências da computação. Estou procurando colaborar em projetos comunitários utilizando Java, não sei de tudo, mas gostaria de aprender mais</h4></div>
 <div><img src="https://c.tenor.com/4g17BhQWFQkAAAAM/bug-developer.gif" /></div>
 
 <br>
